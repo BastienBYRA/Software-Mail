@@ -1,0 +1,8 @@
+1;smtp.gmail.com
+2;smtp.free.fr
+3;smtp.live.com
+4;smtp.orange.fr
+5;smtp.sfr.fr
+6;smtp.wanadoo.fr
+7;mail.yahoo.com
+8;smtp.laposte.fr
