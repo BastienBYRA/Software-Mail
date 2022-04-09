@@ -11,7 +11,7 @@ La possibilité d'ajouter une pièce jointe.
 ## Installation :
 ```bash
 Télécharger le code (bouton "Code")
-Dézipper le s'il est au format ZIP
+Dézipper le s il est au format ZIP
 Double-cliquer Mail.exe
 ```
 
